@@ -16,24 +16,24 @@
 
 **EXAMPLE**
 
-![Clip of Vanguard driving around](../.github/vanguard1.gif?raw=true)
+![Clip of Vanguard driving around](/.github/vanguard1.gif?raw=true)
 
 Here's the robot driving around.
 
 <br/>
 
-![Clip of different camera angles](../.github/vanguard2.gif?raw=true)
+![Clip of different camera angles](/.github/vanguard2.gif?raw=true)
 
 Here are its different camera angles.
 
 <br/>
 
-![Clip of Vanguard arm moving](../.github/vanguard3.gif?raw=true)
+![Clip of Vanguard arm moving](/.github/vanguard3.gif?raw=true)
 
 Here is the the robot's arm engaging in movement.
 
 <br/>
 
-![Clip of Vanguard wrist moving](../.github/vanguard4.gif?raw=true)
+![Clip of Vanguard wrist moving](/.github/vanguard4.gif?raw=true)
 
 And lastly, here is the robot's gripping mechanism in action.
