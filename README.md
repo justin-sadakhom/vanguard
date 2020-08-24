@@ -30,7 +30,7 @@ Here are its different camera angles.
 
 ![Clip of Vanguard arm moving](/.github/vanguard3.gif?raw=true)
 
-Here is the the robot's arm engaging in movement.
+Here is the robot's arm engaging in movement.
 
 <br/>
 
